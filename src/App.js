@@ -21,6 +21,7 @@ class App extends Component {
       <div className="App">
         <img src={logo} className="App-logo" width="50" height="50" alt="logo" />
         <hr/>
+        EJEMPLO DE HOLA MUNDO
         <TableroVivify />
         {/*
         <hr/>
