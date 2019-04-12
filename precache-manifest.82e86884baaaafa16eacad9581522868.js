@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5888cb7e0f61e15ab9c5",
+    "revision": "cebeaf513f9c2bbfcb38",
     "url": "/react-gh-pages-scrum/static/css/main.98699423.chunk.css"
   },
   {
-    "revision": "5888cb7e0f61e15ab9c5",
-    "url": "/react-gh-pages-scrum/static/js/main.5888cb7e.chunk.js"
+    "revision": "cebeaf513f9c2bbfcb38",
+    "url": "/react-gh-pages-scrum/static/js/main.cebeaf51.chunk.js"
   },
   {
     "revision": "b4af85fa77bf3a172bba",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/react-gh-pages-scrum/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "5a17b816e575a6e122ab77200620d7f2",
+    "revision": "dba232b4a8d7623dc53029c8f3ff0bd0",
     "url": "/react-gh-pages-scrum/index.html"
   }
 ];
